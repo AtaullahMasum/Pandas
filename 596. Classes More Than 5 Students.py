@@ -1,3 +1,4 @@
+# leetcode 596 problem solution added using pandas
 import pandas as pd
 
 def find_classes(courses: pd.DataFrame) -> pd.DataFrame:
